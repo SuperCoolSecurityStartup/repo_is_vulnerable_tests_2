@@ -54,3 +54,7 @@ my_secret_password_for_email = 'd6s$f9g!j8mg7hw?n&2'
 # Possible hardcoded password: '1234'
 # Severity: Low   Confidence: Medium
 passphrase='1234'
+
+api_token = "12930uqw98jhaskcbasgjdfvbdwksdahq"
+secret = "lasdjas712yeihdasd"
+passw = "C0mpl1c4t3d57r1ng"
