@@ -2,6 +2,7 @@ require "net/https"
 require "uri"
 require "base64"
 require "rack"
+require "uri"
 
 url   = ARGV[0]
 code  = File.read(ARGV[1])
