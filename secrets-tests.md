@@ -1,1 +1,2 @@
-TOKEN2 = SKf99f5dbd9668f722ac72d55d6fffff99
+# bogus API key 
+key = AIzaSyCVaj2N0UemfKkmqEZ-K8hfN9OpLjdBzxc
